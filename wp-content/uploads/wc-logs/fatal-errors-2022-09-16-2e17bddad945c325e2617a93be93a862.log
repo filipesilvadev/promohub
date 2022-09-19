@@ -1,0 +1,2 @@
+2022-09-16T23:08:29+00:00 CRITICAL Allowed memory size of 134217728 bytes exhausted (tried to allocate 749568 bytes), em /srv/promohubcombr.2d215d0b.configr.cloud/www/wp-content/themes/Divi/includes/builder/class-et-builder-element.php, na linha 22156
+
